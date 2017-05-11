@@ -28,4 +28,4 @@ async def on_voice_state_update(beforeMember,afterMember):
         await dog.play_sound("shutUp.mp3")
     
 
-dog.client.run('Mjg4MDg5MjE1NTMzODQyNDMz.C54yMw.y97cE0Vrrg3M96L9I9_494WIGIY')
+dog.client.run('thanks chaten')
